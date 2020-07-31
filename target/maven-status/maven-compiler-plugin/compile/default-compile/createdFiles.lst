@@ -1,0 +1,6 @@
+transaction\BaseAccount.class
+transaction\Main.class
+transaction\ClientAccount.class
+transaction\TransactionMessage.class
+transaction\IReceiveMessage.class
+transaction\Currency.class
